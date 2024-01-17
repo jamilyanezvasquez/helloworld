@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "First Web Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamil Yanez Vasquez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
